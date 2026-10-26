@@ -1,0 +1,16 @@
+- Unity baseline: 2022.3.13f1c1; Built-in Render Pipeline.
+- Registry dependencies: Unity UI 1.0.0 (runtime UI), 2D Sprite 1.0.0 (editor slicing tools).
+- Input: legacy Input Manager, mouse click / single touch; portrait layout designed around 390 x 844.
+- Demo: Assets/BreakDrop/Scenes/Prototype.unity.
+- UGUI prefab: Assets/BreakDrop/Resources/UI/CandyCanvas.prefab.
+- Runtime source: Assets/BreakDrop/Scripts/Runtime; editor tools: Assets/BreakDrop/Editor.
+- Production catalog: 20 tower levels; Resources/Levels also retains 3 non-playable legacy fixtures.
+- Five editor support samples; workshop includes fixed-support and hinge examples.
+- 11 block artwork variants; rectangle, L2 and L3 collider shapes.
+- Reference routes are validated solutions, not guaranteed global optima or cross-platform deterministic results.
+- Local PlayerPrefs saves, stamina and consumable inventory; editable C# implementation.
+- Procedural music and effects included; no external audio library required.
+- Game UI and some editor labels: Chinese. Documentation: English.
+- Third-party fonts: Outfit and Noto Sans SC, SIL OFL 1.1; full licenses supplied.
+- Android/iOS device acceptance: intentionally skipped, not passed.
+- No WeChat SDK, real ad integration, cloud backend, API keys, APK/IPA or executable build tools included.

@@ -1,0 +1,21 @@
+Break & Drop is a Unity 2D physics puzzle starter for portrait mobile games. Tap supports to guide a hexagonal target onto a safe platform. Blocks fall and rotate through real physics; input waits for the structure to settle.
+
+### Included
+
+- Home, gameplay, pause, win/fail and next-level flow.
+- Undo, restart, hints, countdown, move tracking and height-based star progress.
+- 20 editable JSON levels, rectangle/L-shaped blocks and 11 block art variants.
+- Full C# source, fixed-seed level generation and editor checks for layouts, solution routes and repeated physics outcomes.
+- Replaceable artwork and configurable physics, level layouts and hint sequences.
+
+### Requirements and dependencies
+
+- Tested with Unity 2022.3.13f1c1 and the Built-in Render Pipeline. Other editor versions, URP and HDRP are unverified.
+- Requires Unity's built-in Physics 2D, IMGUI, text rendering, legacy input and JSON serialization modules. Keep these enabled. No separate Asset Store purchase or third-party gameplay SDK is required.
+- Set Active Input Handling to Input Manager (Old) or Both. The new Input System alone is unsupported.
+- Keep supplied assets under Assets/BreakDrop/Resources. Included Outfit and Noto Sans SC fonts use SIL Open Font License 1.1; licenses are in Resources/Fonts.
+- Editor play needs no mobile build tools. Device builds require the relevant Unity build-support module and platform toolchain; iOS also requires macOS and Xcode. Signing and store submission require separate setup.
+
+### Scope
+
+This is a local gameplay prototype, not a complete commercial release. Audio, advertising, analytics, accounts, currencies, online services, advanced hazards and WeChat export integration are excluded. Core gameplay requires no API key, subscription or CDN.

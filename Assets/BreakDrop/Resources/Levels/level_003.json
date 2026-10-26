@@ -1,0 +1,24 @@
+{
+  "levelId": 3,
+  "bestMoves": 4,
+  "target": { "x": 0.65, "y": 4.2 },
+  "goal": { "x": 0.0, "y": -4.15 },
+  "goalWidth": 2.8,
+  "failY": -6.2,
+  "failX": 5.4,
+  "starHeights": [1.8, -0.5, -2.7],
+  "hintOrder": [20, 23, 26, 29],
+  "blocks": [
+    { "id": 20, "x": 0.55, "y": 3.3, "width": 3.0, "height": 0.42, "rotation": 0.0, "mass": 1.0, "breakable": true, "fixedBlock": false, "color": "#FF5E6C" },
+    { "id": 21, "x": -0.55, "y": 2.25, "width": 0.45, "height": 1.85, "rotation": 0.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 22, "x": 1.45, "y": 2.25, "width": 0.45, "height": 1.85, "rotation": 0.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 23, "x": 0.25, "y": 1.15, "width": 3.25, "height": 0.42, "rotation": -4.0, "mass": 1.0, "breakable": true, "fixedBlock": false, "color": "#FFD34E" },
+    { "id": 24, "x": -1.1, "y": 0.0, "width": 0.45, "height": 1.9, "rotation": 0.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 25, "x": 1.25, "y": 0.0, "width": 0.45, "height": 1.9, "rotation": 0.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 26, "x": 0.0, "y": -1.2, "width": 2.9, "height": 0.42, "rotation": 4.0, "mass": 1.0, "breakable": true, "fixedBlock": false, "color": "#56E39F" },
+    { "id": 27, "x": -0.95, "y": -2.2, "width": 0.4, "height": 1.55, "rotation": -6.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 28, "x": 0.95, "y": -2.2, "width": 0.4, "height": 1.55, "rotation": 6.0, "mass": 1.0, "breakable": false, "fixedBlock": true, "color": "#53657A" },
+    { "id": 29, "x": 0.0, "y": -3.05, "width": 2.5, "height": 0.38, "rotation": 0.0, "mass": 1.0, "breakable": true, "fixedBlock": false, "color": "#4CB5FF" }
+  ]
+}
+

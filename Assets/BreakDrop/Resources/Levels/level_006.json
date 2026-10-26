@@ -1,0 +1,171 @@
+{
+    "levelId": 6,
+    "bestMoves": 5,
+    "timeLimitSeconds": 45.0,
+    "towerLevel": true,
+    "target": {
+        "x": -1.173076868057251,
+        "y": 2.440251350402832
+    },
+    "goal": {
+        "x": 0.32692307233810427,
+        "y": -3.6692306995391847
+    },
+    "goalWidth": 5.769230842590332,
+    "failY": -5.099999904632568,
+    "failX": 4.300000190734863,
+    "starHeights": [
+        0.8861221671104431,
+        -0.6680070161819458,
+        -2.269230842590332
+    ],
+    "hintOrder": [
+        5,
+        4,
+        3,
+        2,
+        1
+    ],
+    "blocks": [
+        {
+            "id": 1,
+            "x": -1.173076868057251,
+            "y": -2.769230842590332,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 360.0,
+            "shape": "Rectangle",
+            "art": "BlockA",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#42C6D6"
+        },
+        {
+            "id": 2,
+            "x": -1.173076868057251,
+            "y": -1.769230842590332,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 0.0,
+            "shape": "Rectangle",
+            "art": "BlockB",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#E5B758"
+        },
+        {
+            "id": 3,
+            "x": -1.173076868057251,
+            "y": -0.769230842590332,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 0.0,
+            "shape": "Rectangle",
+            "art": "BlockI",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#C77E58"
+        },
+        {
+            "id": 4,
+            "x": -1.173076868057251,
+            "y": 0.23076915740966798,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 0.0,
+            "shape": "Rectangle",
+            "art": "BlockA",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#42C6D6"
+        },
+        {
+            "id": 5,
+            "x": -1.173076868057251,
+            "y": 1.230769157409668,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 0.0,
+            "shape": "Rectangle",
+            "art": "BlockB",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#E5B758"
+        },
+        {
+            "id": 6,
+            "x": 1.326923131942749,
+            "y": -2.269230842590332,
+            "width": 2.0,
+            "height": 3.0,
+            "rotation": 90.0,
+            "shape": "L2",
+            "art": "BlockJ",
+            "mass": 4.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#B85B99"
+        },
+        {
+            "id": 7,
+            "x": 1.326923131942749,
+            "y": -1.769230842590332,
+            "width": 1.0,
+            "height": 1.0,
+            "rotation": 0.0,
+            "shape": "Rectangle",
+            "art": "BlockE",
+            "mass": 1.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#E37A8E"
+        },
+        {
+            "id": 8,
+            "x": 2.326923131942749,
+            "y": -0.769230842590332,
+            "width": 3.0,
+            "height": 1.0,
+            "rotation": 90.0,
+            "shape": "Rectangle",
+            "art": "BlockG",
+            "mass": 3.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#5DAF63"
+        },
+        {
+            "id": 9,
+            "x": 1.326923131942749,
+            "y": 0.23076915740966798,
+            "width": 3.0,
+            "height": 3.0,
+            "rotation": 0.0,
+            "shape": "L3",
+            "art": "BlockD",
+            "mass": 5.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#8A70CC"
+        },
+        {
+            "id": 10,
+            "x": 1.326923131942749,
+            "y": -0.26923084259033205,
+            "width": 2.0,
+            "height": 1.0,
+            "rotation": 270.0,
+            "shape": "Rectangle",
+            "art": "BlockA",
+            "mass": 2.0,
+            "breakable": true,
+            "fixedBlock": false,
+            "color": "#42C6D6"
+        }
+    ]
+}

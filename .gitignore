@@ -1,0 +1,58 @@
+# Unity generated content
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local build and validation logs
+unity-*.log
+
+# Local diagnostics, credentials and signing files
+*.log
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.mobileprovision
+
+# Local authoring history and non-game administrative documents
+/TextToolDatas/
+/_系统记录/
+/法律文书/
+/docs/software-copyright/
+/docs/mini-program-materials/
+/docs/art-state/
+/docs/validation/
+
+# Paused publisher website and its local tool state
+/publisher-site/
+

@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a385bacf0008ca347ae061a88a6e77e8, type: 3}
+  m_Name: Draft 31
+  m_EditorClassIdentifier: 
+  title: "\u7EC4\u5408\u652F\u6491 \u57FA\u7840\u6A21\u677F #13"
+  theme: "\u7EC4\u5408\u652F\u6491 \u57FA\u7840\u6A21\u677F"
+  status: "\u672A\u627E\u5230\u89E3"
+  report: "\u8FBE\u5230\u641C\u7D22\u9884\u7B97\u6216\u65E0\u53EF\u7EE7\u7EED\u8DEF\u7EBF\uFF1B\u4E0D\u7B49\u4E8E\u65E0\u89E3"
+  validatedHash: 
+  seed: 1256768
+  ordinal: 31
+  replayJson: 
+  difficulty: "\u672A\u8BC4\u4F30"
+  selectedForRelease: 0
+  template: 0
+  lockedBlocks: 
+  positionVariation: 0.25
+  ranges: []
+  generatorVersion: workshop-v1
+  level:
+    schemaVersion: 2
+    mechanisms: []
+    levelId: 5
+    bestMoves: 6
+    timeLimitSeconds: 90
+    towerLevel: 1
+    target:
+      x: -0.17307693
+      y: 4.4402514
+    goal:
+      x: 0.32692307
+      y: -3.6692307
+    goalWidth: 5.769231
+    failY: -5.1
+    failX: 4.3
+    starHeights:
+    - 2.2261224
+    - 0.011993556
+    - -2.26923
+    hintOrder: 
+    blocks:
+    - id: 1
+      x: -1.4230769
+      y: -2.7692308
+      width: 3
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockB
+      mass: 3
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 2
+      x: 2.0769231
+      y: -2.7692308
+      width: 3
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockG
+      mass: 3
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 4
+      x: 1.3269231
+      y: -1.7692308
+      width: 2
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockL
+      mass: 2
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 7
+      x: 0.07692307
+      y: 0.23076916
+      width: 1
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockG
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 8
+      x: 1.5769231
+      y: -0.76923084
+      width: 1
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockI
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 9
+      x: 1.3269231
+      y: 0.73076916
+      width: 2
+      height: 2
+      rotation: 0
+      shape: L2
+      art: BlockJ
+      mass: 3
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 10
+      x: 1.5769231
+      y: 0.23076916
+      width: 1
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockA
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 12
+      x: 0.07692313
+      y: 2.2307692
+      width: 1
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockG
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 14
+      x: 0.07692307
+      y: 3.2307692
+      width: 4
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockL
+      mass: 4
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 15
+      x: -2
+      y: -1.75
+      width: 1
+      height: 1
+      rotation: 0
+      shape: Rectangle
+      art: BlockB
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'
+    - id: 16
+      x: -1.25
+      y: 0.25
+      width: 3
+      height: 3
+      rotation: 0
+      shape: L3
+      art: BlockB
+      mass: 1
+      breakable: 1
+      fixedBlock: 0
+      color: '#FFFFFF'

@@ -1,0 +1,11 @@
+BreakDrop is a Unity 2D physics puzzle template. Tap supports to guide a hexagonal target safely onto a platform. Blocks fall and rotate through physics, with further input locked until the structure settles.
+
+Includes 20 playable JSON levels, rectangular and L-shaped blocks, full C# source, a level workshop, validated reference routes, undo, hints, restart, countdown, star progress and win/fail screens. The candy-themed UGUI includes level selection, settings, local stamina, consumable items and daily supplies. Music and sound effects are generated procedurally.
+
+**Requirements:** Unity 2022.3.13f1c1, Built-in Render Pipeline, Unity UI (`com.unity.ugui` 1.0.0) and 2D Sprite (`com.unity.2d.sprite` 1.0.0, for the included slicing editor tool). Install these registry packages through Package Manager. Keep built-in Physics 2D, UI, IMGUI, audio, image conversion and JSON modules enabled. Set Active Input Handling to Input Manager (Old) or Both. No separate Asset Store purchase or third-party gameplay SDK is required.
+
+Keep supplied assets under `Assets/BreakDrop/Resources`. Outfit and Noto Sans SC fonts use SIL Open Font License 1.1; see the included Third-Party Notices and font licenses.
+
+**Limitations:** The supplied game UI and some editor labels are Chinese; some labels and controls are baked into artwork. English documentation explains customization. Ads are unavailable placeholders; no ad provider, cloud saves or server reward validation is included. WeChat export tools are excluded. Local gameplay requires no account, API key, subscription or CDN.
+
+Android and iOS physical-device acceptance was skipped. Device compatibility is not certified; other Unity versions, URP, HDRP and WebGL deployment are unverified. Device builds require platform build tools; iOS also requires macOS/Xcode. Signing and store publication are separate steps.

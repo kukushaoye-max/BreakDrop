@@ -1,0 +1,68 @@
+{
+    "revision": 2,
+    "selections": [
+        {
+            "sample": 1,
+            "attempt": 0,
+            "seed": 20268929,
+            "route": [
+                6,
+                8,
+                7,
+                4,
+                1
+            ]
+        },
+        {
+            "sample": 2,
+            "attempt": 0,
+            "seed": 20276848,
+            "route": [
+                9,
+                8,
+                6,
+                3,
+                1
+            ]
+        },
+        {
+            "sample": 3,
+            "attempt": 0,
+            "seed": 20284767,
+            "route": [
+                7,
+                9,
+                8,
+                5,
+                2,
+                3
+            ]
+        },
+        {
+            "sample": 4,
+            "attempt": 0,
+            "seed": 20292686,
+            "route": [
+                10,
+                11,
+                6,
+                5,
+                4,
+                2
+            ]
+        },
+        {
+            "sample": 5,
+            "attempt": 0,
+            "seed": 20300605,
+            "route": [
+                12,
+                14,
+                6,
+                3,
+                7,
+                1
+            ]
+        }
+    ]
+}
